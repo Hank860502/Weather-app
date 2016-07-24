@@ -1,1 +1,4 @@
 # Weather-app
+
+## Stack
+Swift
